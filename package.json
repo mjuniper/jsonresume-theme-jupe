@@ -1,26 +1,26 @@
 {
-  "name": "jsonresume-theme-elegant",
+  "name": "jsonresume-theme-jupe",
   "version": "1.16.1",
-  "description": "Elegant theme for jsonresume",
+  "description": "Theme for jsonresume based on elegant",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mudassir0909/jsonresume-theme-elegant.git"
+    "url": "https://github.com/mjuniper/jsonresume-theme-jupe.git"
   },
   "keywords": [
     "jsonresume",
     "theme",
-    "elegant"
+    "jupe"
   ],
-  "author": "Mudassir Ali <mudassir.dev@gmail.com>",
+  "author": "Michael Juniper",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mudassir0909/jsonresume-theme-elegant/issues"
+    "url": "https://github.com/mjuniper/jsonresume-theme-jupe/issues"
   },
-  "homepage": "https://github.com/mudassir0909/jsonresume-theme-elegant",
+  "homepage": "https://github.com/mjuniper/jsonresume-theme-jupe",
   "dependencies": {
     "gravatar": "^1.0.6",
     "handlebars": ">=4.0.14",

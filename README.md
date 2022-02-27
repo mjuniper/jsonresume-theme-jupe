@@ -1,8 +1,6 @@
-# Elegant Theme [![npm version](https://badge.fury.io/js/jsonresume-theme-elegant.svg)](http://badge.fury.io/js/jsonresume-theme-elegant)
+# Jupe Theme
 
-Responsive theme for [JsonResume](https://jsonresume.org/) inspired by card layouts.
-
-[Theme Preview](http://themes.jsonresume.org/theme/elegant)
+Responsive theme for [JsonResume](https://jsonresume.org/) based on [Elegant](https://github.com/mudassir0909/jsonresume-theme-elegant).
 
 ### Markdown Supported
 Supported in the following properties `resume.basics.summary`, `work[0].summary`, `work[0].highlights`, `projects[0].summary`, `projects[0].highlights`, `education[0].courses`, `volunteer[0].summary`, `volunteer[0].highlights`, `awards[0].summary`, `publications[0].summary`, `references[0].reference`, `skills[0].keywords`. If you have any other use case, please raise an issue
